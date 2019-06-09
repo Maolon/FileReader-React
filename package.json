@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jquery": "^3.4.1",
+    "radium": "^0.25.1",
     "react": "^16.8.6",
+    "react-animations": "^1.0.0",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
